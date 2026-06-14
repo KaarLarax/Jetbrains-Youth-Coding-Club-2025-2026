@@ -1,6 +1,6 @@
-.vscode
-.cph
+.vscode/
+.cph/
 *.exe
-.obj
-.o
+*.obj
+*.o
 build/
